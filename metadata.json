@@ -1,0 +1,6 @@
+{
+  "name": "Routine Scrapper By Dhrubo",
+  "description": "Comprehensive academic routine, teacher directory, quiz manager, academic calendar, reminders, and student dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
